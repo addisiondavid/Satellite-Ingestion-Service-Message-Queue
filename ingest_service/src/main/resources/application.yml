@@ -1,0 +1,11 @@
+spring:
+  rabbitmq:
+    host: localhost
+    port: 5672
+    username: guest
+    password: guest
+sat:
+  api-url: http://localhost:8080/sat/latest
+
+server:
+  port: 8081
